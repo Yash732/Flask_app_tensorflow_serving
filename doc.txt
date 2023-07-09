@@ -1,0 +1,4 @@
+After the file uploading page is built.
+Now, we need to add docker instance to run the tensorflow model. Docker instance will expose the port where the model is present in the local host.
+
+In the end, The tensorflow serving is running through docker.
